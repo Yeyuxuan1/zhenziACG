@@ -28,7 +28,7 @@ const Footer = ({ title }) => {
         <i className='fas fa-users'/> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
         <br/>
         <h1>{title}</h1>
-        <span className='text-xs '>Powered by <a href='https://github.com/tangly1024/NotionNext' className='underline dark:text-gray-300'>NotionNext {BLOG.VERSION}</a>.</span></span><br/>
+        <span className='text-xs '>Powered by <a href='https://inky-pullover-cfb.notion.site/c60d46307c6e49f3af820f0a76769113?pvs=4' className='underline dark:text-gray-300'>数字尾巴 {BLOG.VERSION}</a>.</span></span><br/>
 
     </footer>
   )
